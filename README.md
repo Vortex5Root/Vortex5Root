@@ -1,16 +1,16 @@
-### Hi there 👋
+# Wlecome to My Profile
 
-<!--
-**Vortex5Root/Vortex5Root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+As a professional coder with over 10 years of experience, I have a diverse background in programming languages and fields. Beginning in 2013, I started creating Minecraft plugins including plot, crate, and minigame plugins in Java. In 2014, I developed a strong interest in cybersecurity, specifically in networking protocols, exploiting, and reverse engineering, and began learning C# and C++. I continued exploring this field by studying web vulnerabilities and learning Python and Perl in 2017.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In 2018, I worked on an AI project called POGO, developing a trading bot, and started to become interested in AI. I also began working on an application called TukTuk, which unfortunately experienced team troubles.
+ 
+- In 2019, I developed networking database libraries and worked with sockets and protocols, discovering three 0-day exploits that were never released to the public on PHP, Teamspeak3, and networking.
+
+- In 2020, I began developing networking skills in Python using libraries such as struct, scapy, and sockets, as well as blockchain core development knowledge. I also created a remake of phpMyAdmin. 
+
+- In 2021, I furthered my hacking skills and started a big project called Hoax, which included sending a 0-day exploit to Fujitsu. In 2022,
+I worked on several freelance projects including Telegram selling bots and web pages, and secured an investment for Hoax.
+
+Unfortunately, in 2023, the team for Hoax was dismissed. Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
