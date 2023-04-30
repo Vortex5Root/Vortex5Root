@@ -1,4 +1,4 @@
-<p style="text-align: center;"> Welcome to My Profile </p> 
+# Welcome to My Profile
 
 ## Introduction
 
