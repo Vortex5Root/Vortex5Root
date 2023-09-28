@@ -13,4 +13,4 @@ As a 'professional' coder with over 10 years of experience, I have a diverse bac
 - In 2021, I furthered my hacking skills and started a big project called Hoax, which included sending a 0-day exploit to Fujitsu. In 2022,
 I worked on several freelance projects including Telegram selling bots and web pages, and secured an investment for Hoax.
 
-Unfortunately, in 2023, the team for Hoax was dismissed. Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
+Project on Hold, in 2023, the team for Hoax was dismissed. Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
