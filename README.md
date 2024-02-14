@@ -2,7 +2,13 @@
 
 ## Introduction
 
-As a 'professional' coder with over 10 years of experience, I have a diverse background in programming languages and fields. Beginning in 2013, I started creating Minecraft plugins including plot, crate, and minigame plugins in Java. In 2014, I developed a strong interest in cybersecurity, specifically in networking protocols, exploiting, and reverse engineering, and began learning C# and C++. I continued exploring this field by studying web vulnerabilities and learning Python and Perl in 2017.
+As a *professional* coder with over 10 years of experience, I have a diverse background in programming languages and fields. 
+Beginning in 2013, I started creating Minecraft plugins including plot, crate, and minigame plugins in Java.
+In 2014, I developed a strong interest in cybersecurity, 
+specifically in networking protocols, 
+exploiting, and reverse engineering, 
+and began learning C# and C++.
+I continued exploring this field by studying web vulnerabilities and learning Python and Perl in 2017.
 
 - In 2018, I worked on an AI project to POGO, developing a trading bot, and started to become interested in AI. I also began working on an application called TukTukAPP, which unfortunately experienced team troubles.
  
@@ -13,4 +19,6 @@ As a 'professional' coder with over 10 years of experience, I have a diverse bac
 - In 2021, I furthered my hacking skills and started a big project called Hoax, which included sending a 0-day exploit to Fujitsu. In 2022,
 I worked on several freelance projects including Telegram selling bots and web pages, and secured an investment for Hoax.
 
-Project on Hold, in 2023, the team for Hoax was dismissed. Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
+- Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
+
+- 2023 august 22, starting to work on Chapalimend Center For the Unkown.[Sväva]()
