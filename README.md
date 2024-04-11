@@ -21,4 +21,4 @@ I worked on several freelance projects including Telegram selling bots and web p
 
 - Despite this setback, I continue to be passionate about coding and am always exploring new technologies and projects to work on.
 
-- 2023 august 22, starting to work on Chapalimend Center For the Unkown.[Sväva]()
+- 2023 august 22, starting to work on Chapalimend Center For the Unkown.[Sväva](https://github.com/Daisie-Bell).
