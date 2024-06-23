@@ -67,9 +67,11 @@ Here are some of my notable projects:
 
 - Email: vortexdireito@gmail.com
 
+Let's collaborate and create something amazing together!
+
+## System Preferences
+
 | OS | 
 |----------------------|
 | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white&style=for-the-badge) |
-
-Let's collaborate and create something amazing together!
 
