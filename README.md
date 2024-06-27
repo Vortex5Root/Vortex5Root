@@ -12,49 +12,13 @@ In 2020, I delved into Python networking skills using libraries like struct, sca
 
 Despite facing setbacks, my passion for coding remains strong. I continuously explore new technologies and projects. As of August 2023, I am excited to begin working on the Chapalimend Center For the Unknown.
 
-## Skills
-
-### C Skills
-| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) | ![C++](https://img.shields.io/badge/C-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) | ![C#](https://img.shields.io/badge/C-00599C?logo=C%23&logoColor=white&style=for-the-badge) |
-|--------|-------------|--------|
-| Junior | Junior | Junior | 
-
-### Web Skills
-
-| ![Web](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) | ![Web JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge) |
-|--------|-------------|--------|--------|
-| Junior | Junior | Junior | Junior | 
-
-### DataBase Skills
-
-| ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge) | ![SQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge) | ![Redis-DB](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge) |
-|--------|-------------|--------|
-| Junior | Junior | Junior |
-
-### Script Languages
-
-| ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white&style=for-the-badge) | ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge) | ![Bash](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge) |
-|--------|-------------|-------------|
-| Advanced | Junior | Advanced |
-
-### Virtualization
-
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
-|--------|
-| Junior |
-
-### Blockchain
-
-| ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=blockchain.com&logoColor=white&style=for-the-badge) |
-|--------|
-| Junior |
-
-
-### Networking
-
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) |
-|--------|
-| Junior |
+## Coding Skills
+| C Skills | Web Skills | DataBase Skills | Script Languages | Virtualization | Networking | Blockchain |
+|----------|------------|-----------------|------------------|----------------|------------|------------|
+| ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) | ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) | ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=blockchain.com&logoColor=white&style=for-the-badge) |
+| ![C++](https://img.shields.io/badge/C-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) | ![SQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge) | ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge) |  |  |  |
+| ![C#](https://img.shields.io/badge/C-00599C?logo=C%23&logoColor=white&style=for-the-badge) | ![Web JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![Redis-DB](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge) | ![Bash](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge) |  |  |  |
+| Junior | Junior | Junior | Advanced (except Perl) | Junior | Junior | Junior |
 
 ## Projects
 
