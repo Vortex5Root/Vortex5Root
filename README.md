@@ -8,7 +8,7 @@ I have been coding for over 10 years, gaining experience in different programmin
 
 Throughout my journey, I have worked on diverse projects. In 2018, I developed a GPT bot for an AI project related to POGO. This sparked my interest in artificial intelligence. I also faced challenges while working on TukTukAPP due to team issues. In 2019, I focused on networking database libraries, working with sockets and protocols. During this time, I discovered three undisclosed 0-day exploits in PHP, Teamspeak3, and networking.
 
-In 2020, I delved into Python networking skills using libraries like struct, scapy, and sockets. I also gained expertise in blockchain core development and even created a remake of phpMyAdmin. The following year, I further honed my hacking skills and embarked on a significant project named Hoax a new Network protocol. In 2022, I successfully completed various freelance projects, including Telegram selling bots and web pages.
+In 2020, I developed interests in Python networking skills such as using libraries like struct, scapy, and sockets. I also gained expertise in blockchain core development and even created a remake of phpMyAdmin. The following year, I further honed my hacking skills and embarked on a significant project named Hoax a new Network protocol. In 2022, I successfully completed various freelance projects, including Telegram selling bots and web pages.
 
 Despite facing setbacks, my passion for coding remains strong. I continuously explore new technologies and projects. As of August 2023, I am excited to begin working on the Champalimaud Center For the Unknown.
 
