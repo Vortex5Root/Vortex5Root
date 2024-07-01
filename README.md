@@ -10,7 +10,7 @@ Throughout my journey, I have worked on diverse projects. In 2018, I developed a
 
 In 2020, I developed interests in Python networking skills such as using libraries like struct, scapy, and sockets. I also gained expertise in blockchain core development and even created a remake of phpMyAdmin. The following year, I further honed my hacking skills and embarked on a significant project named Hoax a new Network protocol. In 2022, I successfully completed various freelance projects, including Telegram selling bots and web pages.
 
-Despite facing setbacks, my passion for coding remains strong. I continuously explore new technologies and projects. As of August 2023, I am excited to begin working on the Champalimaud Center For the Unknown.
+Despite facing setbacks, my passion for coding remains strong. I continuously explore new technologies and projects. As of August 2023, I am start working for the Champalimaud Center For the Unknown.
 
 ## Coding Skills
 | C Skills | Web Skills | DataBase Skills | Script Languages | Virtualization | Networking | Blockchain |
