@@ -24,8 +24,8 @@ Despite facing setbacks, my passion for coding remains strong. I continuously ex
 
 Here are some of my notable projects:
 
-- [Svaeva](https://github.com/Daisie-Bell/svaeva-sdk): This Project is a compilation of tools to create data flows of data across multiples API  1. Work for Champalimaud Center For the Unknown.
-- [METAMERSION](https://www.fchampalimaud.org/pt-pt/metamersion-healing-algorithms): Anubis is a phone how allow the user to interact with a LLM by voice 2. Work with Champalimaud Center For the Unknown.
+- [Svaeva](https://github.com/Daisie-Bell/svaeva-sdk): This Project is a compilation of tools to create data flows of data across multiples API  1. Work for [Champalimaud Center For the Unknown](https://www.fchampalimaud.org/).
+- [METAMERSION](https://www.fchampalimaud.org/pt-pt/metamersion-healing-algorithms): Anubis is a phone how allow the user to interact with a LLM by voice 2. Work with [Champalimaud Center For the Unknown](https://www.fchampalimaud.org/).
 
 ## Contact Me
 
