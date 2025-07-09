@@ -4,13 +4,21 @@ Welcome to my GitHub profile! Here you will find a collection of my projects and
 
 ## About Me
 
-I have been coding for over 10 years, gaining experience in different programming languages and fields. It all started in 2013 when I began creating Minecraft plugins using Java. I worked on various plugins like plot, crate, and minigame plugins. In 2014, I became interested in cybersecurity, specifically networking protocols, exploiting, and reverse engineering. This led me to learn C# and C++. In 2017, I focused on web vulnerabilities and became proficient in Python and Perl.
+I am a passionate software developer with over a decade of experience across various programming languages and fields. My coding journey began in 2013 with Java, creating Minecraft plugins such as plot, crate, and minigame plugins. Over the years, I have expanded my expertise into cybersecurity, reverse engineering, web vulnerabilities, artificial intelligence, and blockchain development.
 
-Throughout my journey, I have worked on diverse projects. In 2018, I developed a GPT bot for an AI project related to POGO. This sparked my interest in artificial intelligence. I also faced challenges while working on TukTukAPP due to team issues. In 2019, I focused on networking database libraries, working with sockets and protocols. During this time, I discovered three undisclosed 0-day exploits in PHP, Teamspeak3, and networking.
+### Highlights of My Journey:
+- **2014-2017**: Explored cybersecurity, reverse engineering, and web vulnerabilities, mastering C#, C++, Python, and Perl.
+- **2018**: Developed a GPT bot for an AI project related to POGO, sparking my interest in artificial intelligence.
+- **2019**: Focused on networking database libraries, discovering three undisclosed 0-day exploits in PHP, Teamspeak3, and networking protocols.
+- **2020**: Advanced Python networking skills, blockchain core development, and created a remake of phpMyAdmin.
+- **2021**: Designed "Hoax," a new network protocol, and enhanced my hacking skills.
+- **2022**: Completed freelance projects, including Telegram bots and web pages.
+- **2023**: Joined the Champalimaud Center For the Unknown, contributing to the Svaeva AI project, which integrates multiple AI systems into a single API.
+- **2024**: Worked on METAMERSION, developing a phone that enables voice interaction with large language models (LLMs).
+- **2025**: Collaborated with the "ML Core" laboratory to reverse engineer OptiTrack, Dante Sound System, and VC-A7IP_A71PN cameras, creating Python SDKs for AI integration with professional audio systems, cameras, and VR headsets.
 
-In 2020, I developed interests in Python networking skills such as using libraries like struct, scapy, and sockets. I also gained expertise in blockchain core development and even created a remake of phpMyAdmin. The following year, I further honed my hacking skills and embarked on a significant project named Hoax a new Network protocol. In 2022, I successfully completed various freelance projects, including Telegram selling bots and web pages.
+Despite challenges, my passion for coding drives me to continuously explore new technologies and innovate. Let's connect and create something extraordinary together!
 
-Despite facing setbacks, my passion for coding remains strong. I continuously explore new technologies and projects. As of August 2023, I am start working for the Champalimaud Center For the Unknown.
 
 ## Coding Skills
 | C Skills | Web Skills | DataBase Skills | Script Languages | Virtualization | Networking | Blockchain |
